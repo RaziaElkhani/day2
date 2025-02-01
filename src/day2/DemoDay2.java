@@ -19,5 +19,6 @@ public void divide (int a, int b) {
 }
 public static void addNum(int a,int b) {
 	System.out.println(a+b);
+	// finally last step
 }
 }
